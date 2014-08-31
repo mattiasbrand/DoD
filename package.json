@@ -1,0 +1,18 @@
+{
+  "name": "dod",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www --debug"
+  },
+  "dependencies": {
+    "body-parser": "~1.0",
+    "cookie-parser": "~1.0",
+    "debug": "~0.7.4",
+    "ejs": "~0.8",
+    "express": "~4",
+    "morgan": "~1.0.0",
+    "pg.js": "^3.3.0",
+    "static-favicon": "~1.0.0"
+  }
+}
